@@ -1,0 +1,16 @@
+# Blender MTL File: 'Industrial_Fan_2.blend'
+# Material Count: 1
+
+newmtl fan
+Ns 37.254902
+Ka 1.000000 1.000000 1.000000
+Kd 0.386430 0.314638 0.229957
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Fan_C.png
+map_Bump textures/Fan_N.png
+map_Ks textures/Fan_C.png
+refl textures/Reflexion.jpg
