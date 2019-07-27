@@ -14,7 +14,7 @@
 *.o
 *.co
 *.ko
-*.obj
+#*.obj
 *.elf
 
 # Linker output
